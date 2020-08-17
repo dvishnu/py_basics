@@ -78,5 +78,3 @@ college = {
 }
 }
 print(college)
-
-# Creating the dict which contains the nested Dictionaries

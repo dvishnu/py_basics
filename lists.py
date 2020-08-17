@@ -79,3 +79,10 @@ print(fruits)
 #fruits.clear() # present in python3 version
 fruits.sort()
 print("sorted list {}".format(fruits))
+
+
+i = 1
+while i <= 10:
+    j = 5 * i
+    print("5 * {} = {}".format(i,j))
+    i += 1
